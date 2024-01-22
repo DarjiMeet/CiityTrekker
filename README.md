@@ -1,6 +1,6 @@
 # About
 
-This website is build with the help of city tracker api that gives places to visit near you entered location.
+This website is build with the help of "open tripmap" api that gives places to visit near you entered location.
 
 <br>
 
