@@ -9,6 +9,7 @@ This website is build with the help of "open tripmap" api that gives places to v
 <li>PHP for backend.</li> 
 <li> mysql for database.</li>  
 <li>javascript that have api in it for fetching the places to visit near your entered location.</li>  
+<li>HTML & CSS</li>  
 </ol>
 
 
