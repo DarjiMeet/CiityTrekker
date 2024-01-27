@@ -4,13 +4,13 @@ This website is build with the help of "open tripmap" api that gives places to v
 
 <br>
 
-# Tech used
+# Tech require
+<ol>
+<li>PHP for backend.</li> 
+<li> mysql for database.</li>  
+<li>javascript that have api in it for fetching the places to visit near your entered location.</li>  
+</ol>
 
-1 PHP for backend. 
-2 mysql for database. 
-3 javascript that have api in it for fetching the places to visit near your entered location. 
-
-<br>
 
 # Usage
 
